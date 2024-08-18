@@ -63,3 +63,8 @@ For any inquiries or issues, please contact:
 
 - **Darsh Chaurasia**
   - Email: dchauras@asu.edu
+
+
+## License
+
+This project is provided solely for educational purposes. You are free to view and study the code, but you may not reproduce, distribute, or use it in any form without explicit permission from the author.
