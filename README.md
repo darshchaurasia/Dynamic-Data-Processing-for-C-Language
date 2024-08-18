@@ -1,7 +1,3 @@
-### Project Name: **Dynamic Data Processing for C Language**
-
-### README.md
-
 # Dynamic Data Processing for C Language
 
 ## Description
